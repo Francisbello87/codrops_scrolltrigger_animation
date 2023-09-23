@@ -6,7 +6,7 @@ import React from "react";
 export default function Nav() {
   const router = useRouter();
   return (
-    <div className="flex w-full mt-8 gap-5 items-center flex-wrap gap-y-4 justify-center mb-32">
+    <div className="flex w-full mt-8 md:gap-5 gap-2 items-center flex-wrap justify-center mb-32 ">
       {NAV_DATA.map((item) => {
         const { name, route } = item;
         const isActive = router.pathname === route;

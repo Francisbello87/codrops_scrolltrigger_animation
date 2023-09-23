@@ -23,7 +23,7 @@ export default function Home() {
   }
   return (
     <Layout>
-      <div id="#main-container" className="columns demo-1">
+      <div id="#main-container" className="columns ">
         <Column
           images={[
             "/img/10.jpg",
