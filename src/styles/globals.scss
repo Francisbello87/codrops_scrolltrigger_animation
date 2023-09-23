@@ -39,6 +39,14 @@
   --grid-columns: 7;
 }
 
+.demo-5 {
+  --grid-item-ratio: 0.7;
+  --grid-item-radius: 0px;
+  --grid-gap: 10px;
+  --grid-columns: 4;
+  --grid-max-width: 900px;
+}
+
 body {
   margin: 0;
   color: var(--color-text);

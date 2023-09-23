@@ -16,7 +16,7 @@ export default function Two() {
   }
   return (
     <Layout>
-      <div id="#main-container" className="columns demo-4">
+      <div id="#main-container" className="columns demo-4 pb-32">
         <Column
           images={[
             "/img/10.jpg",
