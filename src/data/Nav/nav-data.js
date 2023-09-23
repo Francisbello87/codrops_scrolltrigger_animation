@@ -13,30 +13,30 @@ export const NAV_DATA = [
   },
   {
     name: 4,
-    route: "/",
+    route: "/four",
   },
   {
     name: 5,
-    route: "/",
+    route: "/five",
   },
-  {
-    name: 6,
-    route: "/",
-  },
-  {
-    name: 7,
-    route: "/",
-  },
-  {
-    name: 8,
-    route: "/",
-  },
-  {
-    name: 9,
-    route: "/",
-  },
-  {
-    name: 10,
-    route: "/",
-  },
+  // {
+  //   name: 6,
+  //   route: "",
+  // },
+  // {
+  //   name: 7,
+  //   route: "",
+  // },
+  // {
+  //   name: 8,
+  //   route: "",
+  // },
+  // {
+  //   name: 9,
+  //   route: "",
+  // },
+  // {
+  //   name: 10,
+  //   route: "",
+  // },
 ];
